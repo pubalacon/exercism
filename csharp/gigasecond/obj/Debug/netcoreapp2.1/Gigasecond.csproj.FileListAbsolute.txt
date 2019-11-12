@@ -1,0 +1,13 @@
+C:\data\GitHub\exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\data\GitHub\exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\data\GitHub\exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\data\GitHub\exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.deps.json
+C:\data\GitHub\exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.runtimeconfig.json
+C:\data\GitHub\exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.runtimeconfig.dev.json
+C:\data\GitHub\exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.dll
+C:\data\GitHub\exercism\csharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.pdb
+C:\data\GitHub\exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.csprojAssemblyReference.cache
+C:\data\GitHub\exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.AssemblyInfoInputs.cache
+C:\data\GitHub\exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.AssemblyInfo.cs
+C:\data\GitHub\exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.dll
+C:\data\GitHub\exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.pdb

@@ -1,0 +1,15 @@
+C:\data\GitHub\exercism\csharp\hello-world\bin\Debug\netcoreapp2.1\testhost.exe
+C:\data\GitHub\exercism\csharp\hello-world\bin\Debug\netcoreapp2.1\testhost.dll
+C:\data\GitHub\exercism\csharp\hello-world\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\data\GitHub\exercism\csharp\hello-world\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\data\GitHub\exercism\csharp\hello-world\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\data\GitHub\exercism\csharp\hello-world\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+C:\data\GitHub\exercism\csharp\hello-world\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+C:\data\GitHub\exercism\csharp\hello-world\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+C:\data\GitHub\exercism\csharp\hello-world\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\data\GitHub\exercism\csharp\hello-world\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\data\GitHub\exercism\csharp\hello-world\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+C:\data\GitHub\exercism\csharp\hello-world\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+C:\data\GitHub\exercism\csharp\hello-world\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+C:\data\GitHub\exercism\csharp\hello-world\obj\Debug\netcoreapp2.1\HelloWorld.dll
+C:\data\GitHub\exercism\csharp\hello-world\obj\Debug\netcoreapp2.1\HelloWorld.pdb
