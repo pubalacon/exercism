@@ -1,5 +1,6 @@
 using System;
-
+using System.Collections.Generic;
+[Flags]
 public enum Allergen
 {
     Eggs = 1,
@@ -23,11 +24,18 @@ public class Allergies
 
     public bool IsAllergicTo(Allergen allergen)
     {
-        
+        return (Mask & allergen) == allergen;
     }
 
     public Allergen[] List()
     {
-        
+        List<Allergen> list = new List<Allergen>();
+
+        foreach(Allergen allergen in (Allergen[])Enum.GetValues(typeof(Allergen)))
+        {
+            if (IsAllergicTo(allergen)) list.Add(allergen);
+        }
+
+        return list.ToArray();
     }
 }
