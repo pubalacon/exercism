@@ -1,0 +1,13 @@
+C:\data\GitHub\exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\data\GitHub\exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\data\GitHub\exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\data\GitHub\exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.deps.json
+C:\data\GitHub\exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.runtimeconfig.json
+C:\data\GitHub\exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.runtimeconfig.dev.json
+C:\data\GitHub\exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.dll
+C:\data\GitHub\exercism\csharp\rotational-cipher\bin\Debug\netcoreapp2.1\RotationalCipher.pdb
+C:\data\GitHub\exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.csprojAssemblyReference.cache
+C:\data\GitHub\exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.AssemblyInfoInputs.cache
+C:\data\GitHub\exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.AssemblyInfo.cs
+C:\data\GitHub\exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.dll
+C:\data\GitHub\exercism\csharp\rotational-cipher\obj\Debug\netcoreapp2.1\RotationalCipher.pdb
