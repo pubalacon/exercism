@@ -1,49 +1,57 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 
 public class GradeSchool
 {
-    public SortedList<string, int> Students { get; set; }
+    private SortedList<string, int> Students { get; set; }
+    private int MaxGrade { get; set; }
 
     public GradeSchool()
     {
         Students = new SortedList<string, int>();
+        MaxGrade = 0;
     }
     public void Add(string student, int grade)
     {
         try
         {
             Students.Add(student, grade);
-        } catch(ArgumentException)
+            if (grade > MaxGrade)
+            {
+                MaxGrade = grade;
+            }
+
+        }
+        catch (ArgumentException)
         {
             Console.WriteLine("Key " + student + " already exists");
         }
     }
-
     
     public IEnumerable<string> Roster()
     {
-        List<string> studentsList = new List<string>() { };
 
-        foreach (KeyValuePair<string, int> student in Students)
+        int grade = 1;
+        while (grade <= MaxGrade)
         {
-            studentsList.Add(student.Key);
+            foreach (string name in Grade(grade))
+            {
+                yield return name;
+            }
+            grade++;
         }
-
-        return studentsList.ToArray();
     }
 
     public IEnumerable<string> Grade(int grade)
     {
-        List<string> studentsList = new List<string>() { };
-
         foreach (KeyValuePair<string, int> student in Students)
         {
-            if (student.Value==grade) studentsList.Add(student.Key);
+            if (student.Value == grade)
+            {
+                yield return student.Key;
+            }
         }
-
-        studentsList.Sort();
-        return studentsList.ToArray();
     }
 }

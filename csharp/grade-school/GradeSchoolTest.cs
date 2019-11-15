@@ -76,4 +76,5 @@ public class GradeSchoolTest
         var expected = Array.Empty<string>();
         Assert.Empty(sut.Grade(1));
     }
+
 }
